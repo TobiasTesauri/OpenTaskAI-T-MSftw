@@ -75,7 +75,8 @@ OpenTaskAI/
 └── package.json
 ```
 
----
+---![OpenTaskAI-screenshot-fixed](https://github.com/user-attachments/assets/7bf65de5-c1fd-48e2-8213-312ffcee5d69)
+
 
 ## 🧠 AI Integration
 
